@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_url">https://jsonplaceholder.typicode.com/</string>
+    <string name="text_default">Text default</string>
+    <string name="error_connect">Error connect</string>
+    <string name="error">Error</string>
+</resources>
